@@ -3,6 +3,13 @@ Alexander Senn
 this repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 
+## Activity 1
+![Screen Shot 2021-10-14 at 9 48 04 PM](https://user-images.githubusercontent.com/28233112/137419375-65540241-f579-4a3a-8cae-00e696f1e20b.png)
+
+
+
+
+
 ## CARTE Education Pathways
 
 ## Description
